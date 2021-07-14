@@ -37,4 +37,10 @@ Adapted from
 |Resource|Description|Fee|Result Format|Limitations|Registration|
 |:--|:--|:--|:--|:--|:--|
 |[arXiv](https://arxiv.org/help/api/index)|It provides access to both metadata and article abstracts|Free|Atom|None|None|
+|[SAO/NASA Astrophysics Data System (ADS)](https://github.com/adsabs/adsabs-dev-api)|It provides access to bibliographic data on astronomy and physics publications|Free|JSON|Rate limits apply|Key required|
+|[BioMed Central](https://www.biomedcentral.com/getpublished/indexing-archiving-and-access-to-data)|It provides access to both metadata and full-text content|Free|XML,JSON|None|Key required|
+|[Chronicling America](https://chroniclingamerica.loc.gov/about/api/)|It provides access to historic newspapers and select digitized newspaper pages|Free|HTML(default),JSON,Atom|None|None|
+|[CrossRef](https://www.crossref.org/services/metadata-delivery/rest-api/)|It provides access to metadata records with CrossRef DOIs|Free|JSON|None|None|
+|[Digital Public Library of America](https://pro.dp.la/developers/api-codex)|It provides access to metadata of its collection|Free|JSON-LD|None|Key required|
+|[HathiTrust (Bibliographic API)](https://www.hathitrust.org/bib_api)|It provides access to bibliographic and rights information for its collection. It does not provide API for bulk-retrieval of records|Free|MARC-XML,JSON|No specific limits, however, only intended for small numbers of items. Permission must besought for bulk retrieval|None|
 
