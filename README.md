@@ -7,7 +7,7 @@ Appendix A is associated with **_Chapter 2: Text data and where to find them_** 
 Lamba, Manika, & Madhusudhan, Margam. (2021). Appendix-A: Online Repositories Available for Text Mining (Version v1.0). http://doi.org/10.5281/zenodo.5104488
 
 
-### A.1 Selected Online Repositories Available for Text Mining
+# A.1 Selected Online Repositories Available for Text Mining
 
 |Repository|Description|Data Types|
 |:-- |:-- |:-- |
@@ -29,7 +29,7 @@ Lamba, Manika, & Madhusudhan, Margam. (2021). Appendix-A: Online Repositories Av
 
 <br>
 
-### A.2: Selected Online Repositories with API Available for Text Mining
+# A.2: Selected Online Repositories with API Available for Text Mining
 Adapted from 
 <br/>
 ©2020 MIT Libraries - reprinted with permission. https://libraries.mit.edu/scholarly/publishing/apis-for-scholarly-resources/. Accessed 26th Feb 2020,
