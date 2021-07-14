@@ -4,7 +4,7 @@
 # How to Cite
 Lamba, Manika, & Madhusudhan, Margam. (2021). Appendix-A: Online Repositories Available for Text Mining (Version v1.0). http://doi.org/10.5281/zenodo.5104488
 
-Appendix A is associated with **_Chapter 2: Text data and where to find them_** of the book
+## Appendix A is associated with **_Chapter 2: Text data and where to find them_** of the book
 
 ### A.1 Selected Online Repositories Available for Text Mining
 
