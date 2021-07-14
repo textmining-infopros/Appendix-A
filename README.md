@@ -14,4 +14,13 @@ Appendix A is associated with **_Chapter 2: Text data and where to find them_** 
 |[Project Gutenberg](https://www.gutenberg.org)|Offers over 58,000 free eBooks in a variety of languagues|ePub, HTML, Kindle, plain text|
 |[Spatial Data Repository](https://spatialdata.dhsprogram.com/home/)|Provides geographically-linked health and demographic data from DHS Program and the U.S. Census Bureau for mapping in geographic information systems (GIS)|Various geospatial formats, CSV|
 |[Natural Earth](http://www.naturalearthdata.com)|Free vector and raster map data|ESRI shapefile, TIFF, TFW|
-|
+|[New York University (NYU) Spatial Data Repository](https://geo.nyu.edu)|Provides a catalog of geospatial data and maps available from New York University|Image, Polygon, Raster, Line, Point, Mixed|
+|[Hathi-Trust](https://www.hathitrust.org/)|Non-profit large-scale digital preservation repository that includes digital content from research libraries via Google Books and Internet Archive initiatives|PDF|
+|[Global NDLTD](http://search.ndltd.org/)|Open-access electronic theses and dissertations database provided by the Networked Digital Library of Theses and Dissertations|PDF|
+|[Open Access Theses and Dissertations](https://oatd.org/)|Open-access electronic theses and dissertations database|PDF|
+|[PQDT Open](https://pqdtopen.proquest.com/search.html)|Full-text open access theses and dissertations database|PDF|
+|[arXiv](https://arxiv.org/)|Provides open-access pre-print full-text in the field of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and system science,and economics|PDF|
+|[biorXiv](https://www.biorxiv.org/)|Provides open-access pre-print full-text in the field of life sciences|PDF|
+|[Wikipedia](https://www.wikipedia.org/)|Collects and develops content for the public in an open-access environment|PDF|
+
+
