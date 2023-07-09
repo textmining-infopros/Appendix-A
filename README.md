@@ -1,5 +1,4 @@
-# Appendix-A: Online Repositories Available for Text Mining
-[![DOI](https://zenodo.org/badge/385467989.svg)](https://zenodo.org/badge/latestdoi/385467989)
+# Appendix-A: Online Repositories Available for Text Mining [![DOI](https://zenodo.org/badge/385467989.svg)](https://zenodo.org/badge/latestdoi/385467989)
 
 Appendix A is associated with **_Chapter 2: Text data and where to find them_** of the book -- Manika Lamba and Margam Madhusudhan (2021) Text Mining for Information Professionals: An Uncharted Territory, SpringerNature.
 
